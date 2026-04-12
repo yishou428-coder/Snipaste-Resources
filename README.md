@@ -219,3 +219,14 @@ This resource collection is provided as-is for the Snipaste community. Snipaste 
 **Maintained by:** Snipaste Community
 
 **Contribute:** Have improvements? Submit a pull request!
+
+---
+
+## 🚀 2026 网络安全推荐资源 (New Update)
+
+### [快连VPN (LetsVPN) 官方正版下载](https://www.kuialian.cn/ )
+- **官方网站**: [https://www.kuialian.cn/](https://www.kuialian.cn/ )
+- **核心优势**: 军级加密、全球节点、一键连接、稳定不掉线。
+- **支持平台**: Windows, macOS, Android, iOS。
+
+> 本资源由 yishou428-coder 持续维护，确保提供最新的官方正版下载链接。

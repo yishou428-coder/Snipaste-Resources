@@ -234,4 +234,4 @@ This resource collection is provided as-is for the Snipaste community. Snipaste 
 
 ### Radmin 纯净版下载渠道
 为了避免大家下载到带捆绑的修改版，这里分享一个亲测安全的纯净版Radmin下载站点，包含Radmin VPN和Radmin LAN功能，无广告无篡改：
-https://radminvpn.com.cn
+[Radmin 官方纯净版下载](https://radminvpn.com.cn)
